@@ -1,37 +1,45 @@
-import React from 'react';
+import React, { useState } from 'react';
 //import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { Container, Row, Col } from 'react-bootstrap';
+import { PizzaCard } from './components/PizzaCard';
+import { Confirmation } from './components/Confirmation';
+import pizzas from './data';
+//import CurrencyTable from './components/currencyTable'
 
-class Toggle extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {isToggleOn: true};
+/*import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/css/bootstrap-theme.css';*/
 
-    // Este enlace es necesario para hacer que `this` funcione en el callback
-    this.handleClick = this.handleClick.bind(this);
-  }
-
-  handleClick() {
-    this.setState(state => ({
-      isToggleOn: !state.isToggleOn
-    }));
-  }
-
-  render() {
-    return (
-      <button onClick={this.handleClick}>
-        {this.state.isToggleOn ? 'ON' : 'OFF'}
-      </button>
-    );
-  }
-}
+/*<CurrencyTable currency='USD' />
+<CurrencyTable currency='AUD' />
+<CurrencyTable currency='JPY' />
+<CurrencyTable currency='RUB' />*/
 
 function App() {
+
+  const[ordered, setOrdered] = useState(false);
+
+  function displayConfirmation() {
+    setOrdered(true);
+
+    setTimeout(() => {
+      setOrdered(false)
+    }, 3000);
+  }
+
   return (
-    <div>
-      <Toggle />
-    </div>
-  );
+      <Container>
+        {ordered && <Confirmation toggle={setOrdered} />}
+        <Row>
+          {pizzas.map(data => (
+            <Col xs={3} className="mb-5" key={`${data.id}`}>
+              <PizzaCard data={data} setOrdered={displayConfirmation}></PizzaCard>
+            </Col>
+          ))}
+        </Row>
+      </Container>  
+    )
 }
 
 export default App;
