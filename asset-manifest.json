@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/consume_api_with_react/static/css/main.6d973d26.chunk.css",
-    "main.js": "/consume_api_with_react/static/js/main.36c71a80.chunk.js",
-    "main.js.map": "/consume_api_with_react/static/js/main.36c71a80.chunk.js.map",
-    "runtime-main.js": "/consume_api_with_react/static/js/runtime-main.660b4248.js",
-    "runtime-main.js.map": "/consume_api_with_react/static/js/runtime-main.660b4248.js.map",
-    "static/css/2.de424728.chunk.css": "/consume_api_with_react/static/css/2.de424728.chunk.css",
-    "static/js/2.0cd92105.chunk.js": "/consume_api_with_react/static/js/2.0cd92105.chunk.js",
-    "static/js/2.0cd92105.chunk.js.map": "/consume_api_with_react/static/js/2.0cd92105.chunk.js.map",
-    "index.html": "/consume_api_with_react/index.html",
-    "precache-manifest.857fcf080fc144d5cfab23e3d8b96c68.js": "/consume_api_with_react/precache-manifest.857fcf080fc144d5cfab23e3d8b96c68.js",
-    "service-worker.js": "/consume_api_with_react/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/consume_api_with_react/static/css/2.de424728.chunk.css.map",
-    "static/css/main.6d973d26.chunk.css.map": "/consume_api_with_react/static/css/main.6d973d26.chunk.css.map",
-    "static/js/2.0cd92105.chunk.js.LICENSE.txt": "/consume_api_with_react/static/js/2.0cd92105.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/consume_api_with_react/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/reactapi.github.io/static/css/main.6d973d26.chunk.css",
+    "main.js": "/reactapi.github.io/static/js/main.ca366e32.chunk.js",
+    "main.js.map": "/reactapi.github.io/static/js/main.ca366e32.chunk.js.map",
+    "runtime-main.js": "/reactapi.github.io/static/js/runtime-main.fd220096.js",
+    "runtime-main.js.map": "/reactapi.github.io/static/js/runtime-main.fd220096.js.map",
+    "static/css/2.de424728.chunk.css": "/reactapi.github.io/static/css/2.de424728.chunk.css",
+    "static/js/2.0cd92105.chunk.js": "/reactapi.github.io/static/js/2.0cd92105.chunk.js",
+    "static/js/2.0cd92105.chunk.js.map": "/reactapi.github.io/static/js/2.0cd92105.chunk.js.map",
+    "index.html": "/reactapi.github.io/index.html",
+    "precache-manifest.96412dcf4ff2e8b6fa0b847f4ed98420.js": "/reactapi.github.io/precache-manifest.96412dcf4ff2e8b6fa0b847f4ed98420.js",
+    "service-worker.js": "/reactapi.github.io/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/reactapi.github.io/static/css/2.de424728.chunk.css.map",
+    "static/css/main.6d973d26.chunk.css.map": "/reactapi.github.io/static/css/main.6d973d26.chunk.css.map",
+    "static/js/2.0cd92105.chunk.js.LICENSE.txt": "/reactapi.github.io/static/js/2.0cd92105.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactapi.github.io/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.660b4248.js",
+    "static/js/runtime-main.fd220096.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.0cd92105.chunk.js",
     "static/css/main.6d973d26.chunk.css",
-    "static/js/main.36c71a80.chunk.js"
+    "static/js/main.ca366e32.chunk.js"
   ]
 }
