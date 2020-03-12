@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/consume-api-with-react/static/css/main.6d973d26.chunk.css",
+    "main.js": "/consume-api-with-react/static/js/main.d07290de.chunk.js",
+    "main.js.map": "/consume-api-with-react/static/js/main.d07290de.chunk.js.map",
+    "runtime-main.js": "/consume-api-with-react/static/js/runtime-main.910946a7.js",
+    "runtime-main.js.map": "/consume-api-with-react/static/js/runtime-main.910946a7.js.map",
+    "static/css/2.de424728.chunk.css": "/consume-api-with-react/static/css/2.de424728.chunk.css",
+    "static/js/2.0cd92105.chunk.js": "/consume-api-with-react/static/js/2.0cd92105.chunk.js",
+    "static/js/2.0cd92105.chunk.js.map": "/consume-api-with-react/static/js/2.0cd92105.chunk.js.map",
+    "index.html": "/consume-api-with-react/index.html",
+    "precache-manifest.ed17a55f7db9d1f99eddbc290f57f3af.js": "/consume-api-with-react/precache-manifest.ed17a55f7db9d1f99eddbc290f57f3af.js",
+    "service-worker.js": "/consume-api-with-react/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/consume-api-with-react/static/css/2.de424728.chunk.css.map",
+    "static/css/main.6d973d26.chunk.css.map": "/consume-api-with-react/static/css/main.6d973d26.chunk.css.map",
+    "static/js/2.0cd92105.chunk.js.LICENSE.txt": "/consume-api-with-react/static/js/2.0cd92105.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/consume-api-with-react/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.910946a7.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.0cd92105.chunk.js",
+    "static/css/main.6d973d26.chunk.css",
+    "static/js/main.d07290de.chunk.js"
+  ]
+}
