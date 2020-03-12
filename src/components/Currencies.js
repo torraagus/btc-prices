@@ -9,9 +9,9 @@ export default class Currencies extends Component {
     constructor(props) {
         super(props)
         this.state = {
-            currencies: [],
-            index: -1,
-            data: [Currency]
+            currencies: [], // Arreglo de las denominaciones de las monedas
+            index: -1, // Es el indice de la moneda seleccionada
+            data: [Currency] // Arreglo de objetos moneda
         }
         // Este enlace es necesario para hacer que `this` funcione en el callback
         this.handleClick = this.handleClick.bind(this);
@@ -47,7 +47,7 @@ export default class Currencies extends Component {
                     ))}
                 </div>
                 <div className="container">
-                    {i > -1 && <p className="mt-3 mb-0">1BTC = <b>{this.state.data[i].last}({this.state.data[i].symbol})</b></p>}
+                    {i > -1 && <p className="mt-3 mb-0">1BTC(₿) = <b>{this.state.data[i].last}({this.state.data[i].symbol})</b></p>}
                 </div>                
                 {i > -1 &&
                 <div className="container">
