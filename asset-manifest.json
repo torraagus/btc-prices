@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/reactapi.github.io/static/css/main.6d973d26.chunk.css",
-    "main.js": "/reactapi.github.io/static/js/main.ca366e32.chunk.js",
-    "main.js.map": "/reactapi.github.io/static/js/main.ca366e32.chunk.js.map",
-    "runtime-main.js": "/reactapi.github.io/static/js/runtime-main.fd220096.js",
-    "runtime-main.js.map": "/reactapi.github.io/static/js/runtime-main.fd220096.js.map",
-    "static/css/2.de424728.chunk.css": "/reactapi.github.io/static/css/2.de424728.chunk.css",
-    "static/js/2.0cd92105.chunk.js": "/reactapi.github.io/static/js/2.0cd92105.chunk.js",
-    "static/js/2.0cd92105.chunk.js.map": "/reactapi.github.io/static/js/2.0cd92105.chunk.js.map",
-    "index.html": "/reactapi.github.io/index.html",
-    "precache-manifest.96412dcf4ff2e8b6fa0b847f4ed98420.js": "/reactapi.github.io/precache-manifest.96412dcf4ff2e8b6fa0b847f4ed98420.js",
-    "service-worker.js": "/reactapi.github.io/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/reactapi.github.io/static/css/2.de424728.chunk.css.map",
-    "static/css/main.6d973d26.chunk.css.map": "/reactapi.github.io/static/css/main.6d973d26.chunk.css.map",
-    "static/js/2.0cd92105.chunk.js.LICENSE.txt": "/reactapi.github.io/static/js/2.0cd92105.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/reactapi.github.io/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/btc_prices/static/css/main.6d973d26.chunk.css",
+    "main.js": "/btc_prices/static/js/main.e9774839.chunk.js",
+    "main.js.map": "/btc_prices/static/js/main.e9774839.chunk.js.map",
+    "runtime-main.js": "/btc_prices/static/js/runtime-main.30948f56.js",
+    "runtime-main.js.map": "/btc_prices/static/js/runtime-main.30948f56.js.map",
+    "static/css/2.de424728.chunk.css": "/btc_prices/static/css/2.de424728.chunk.css",
+    "static/js/2.0cd92105.chunk.js": "/btc_prices/static/js/2.0cd92105.chunk.js",
+    "static/js/2.0cd92105.chunk.js.map": "/btc_prices/static/js/2.0cd92105.chunk.js.map",
+    "index.html": "/btc_prices/index.html",
+    "precache-manifest.dbce4a13a9b7c08ed0264ab1f436f5f3.js": "/btc_prices/precache-manifest.dbce4a13a9b7c08ed0264ab1f436f5f3.js",
+    "service-worker.js": "/btc_prices/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/btc_prices/static/css/2.de424728.chunk.css.map",
+    "static/css/main.6d973d26.chunk.css.map": "/btc_prices/static/css/main.6d973d26.chunk.css.map",
+    "static/js/2.0cd92105.chunk.js.LICENSE.txt": "/btc_prices/static/js/2.0cd92105.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/btc_prices/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd220096.js",
+    "static/js/runtime-main.30948f56.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.0cd92105.chunk.js",
     "static/css/main.6d973d26.chunk.css",
-    "static/js/main.ca366e32.chunk.js"
+    "static/js/main.e9774839.chunk.js"
   ]
 }
