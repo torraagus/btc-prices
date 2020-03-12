@@ -1,28 +1,28 @@
 .container {
-    width: 1000px;
-    padding: 0;
-    display: flex;
-    flex-wrap: wrap;
+  width: 1000px;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .currencies {
-    margin: 0;
-    padding: 1rem;
-    width: 100px;
-    text-align: center;
-    background-color: #ffffff;
-    border: none;
-    border-bottom: 1px solid #eeeeee;
-    border-right: 1px solid #eeeeee;
+  margin: 0;
+  padding: 1rem;
+  width: 100px;
+  text-align: center;
+  background-color: #ffffff;
+  border: none;
+  border-bottom: 1px solid #eeeeee;
+  border-right: 1px solid #eeeeee;
 
-    &:hover {
-        background-color: #00b96b;
-        font-weight: bold;
-        color: #ffffff;
-        cursor: pointer;
-    }
+  &:hover {
+    background-color: #00b96b;
+    font-weight: bold;
+    color: #ffffff;
+    cursor: pointer;
+  }
 }
 
 p {
-    font-size: 1.5rem;
+  font-size: 1.5rem;
 }

@@ -1,0 +1,41 @@
+{
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "none",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.formatOnSave": false
+  },
+  // WORKBENCH
+  //"workbench.colorTheme": "Oceanic Next (dimmed bg)",
+  //"workbench.activityBar.visible": false,
+  //"workbench.statusBar.visible": false,
+  // PRETTIER
+  "prettier.singleQuote": true,
+  // SEARCH
+  "search.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/tmp": true,
+    "**/docs": true
+  },
+  // WINDOW
+  "window.zoomLevel": 1,
+  // JAVASCRIPT
+  "javascript.updateImportsOnFileMove.enabled": "always"
+  //"editor.formatOnPaste": true
+}
