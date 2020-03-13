@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/btc_prices/static/css/main.6d973d26.chunk.css",
-    "main.js": "/btc_prices/static/js/main.e9774839.chunk.js",
-    "main.js.map": "/btc_prices/static/js/main.e9774839.chunk.js.map",
+    "main.css": "/btc_prices/static/css/main.4b231353.chunk.css",
+    "main.js": "/btc_prices/static/js/main.e2cc54c1.chunk.js",
+    "main.js.map": "/btc_prices/static/js/main.e2cc54c1.chunk.js.map",
     "runtime-main.js": "/btc_prices/static/js/runtime-main.30948f56.js",
     "runtime-main.js.map": "/btc_prices/static/js/runtime-main.30948f56.js.map",
-    "static/css/2.de424728.chunk.css": "/btc_prices/static/css/2.de424728.chunk.css",
-    "static/js/2.0cd92105.chunk.js": "/btc_prices/static/js/2.0cd92105.chunk.js",
-    "static/js/2.0cd92105.chunk.js.map": "/btc_prices/static/js/2.0cd92105.chunk.js.map",
+    "static/css/2.5b713f80.chunk.css": "/btc_prices/static/css/2.5b713f80.chunk.css",
+    "static/js/2.bfe03496.chunk.js": "/btc_prices/static/js/2.bfe03496.chunk.js",
+    "static/js/2.bfe03496.chunk.js.map": "/btc_prices/static/js/2.bfe03496.chunk.js.map",
     "index.html": "/btc_prices/index.html",
-    "precache-manifest.dbce4a13a9b7c08ed0264ab1f436f5f3.js": "/btc_prices/precache-manifest.dbce4a13a9b7c08ed0264ab1f436f5f3.js",
+    "precache-manifest.5ce3eba5179b773e09db7a4145333212.js": "/btc_prices/precache-manifest.5ce3eba5179b773e09db7a4145333212.js",
     "service-worker.js": "/btc_prices/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/btc_prices/static/css/2.de424728.chunk.css.map",
-    "static/css/main.6d973d26.chunk.css.map": "/btc_prices/static/css/main.6d973d26.chunk.css.map",
-    "static/js/2.0cd92105.chunk.js.LICENSE.txt": "/btc_prices/static/js/2.0cd92105.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/btc_prices/static/media/logo.ee7cd8ed.svg"
+    "static/css/2.5b713f80.chunk.css.map": "/btc_prices/static/css/2.5b713f80.chunk.css.map",
+    "static/css/main.4b231353.chunk.css.map": "/btc_prices/static/css/main.4b231353.chunk.css.map",
+    "static/js/2.bfe03496.chunk.js.LICENSE.txt": "/btc_prices/static/js/2.bfe03496.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.30948f56.js",
-    "static/css/2.de424728.chunk.css",
-    "static/js/2.0cd92105.chunk.js",
-    "static/css/main.6d973d26.chunk.css",
-    "static/js/main.e9774839.chunk.js"
+    "static/css/2.5b713f80.chunk.css",
+    "static/js/2.bfe03496.chunk.js",
+    "static/css/main.4b231353.chunk.css",
+    "static/js/main.e2cc54c1.chunk.js"
   ]
 }
