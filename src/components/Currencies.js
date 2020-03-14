@@ -71,7 +71,7 @@ export default class Currencies extends Component {
           </Row>
         </Grid>
         {i > -1 && (
-          <Grid fluid>
+          <Grid fluid className="mb-5">
             <Row center="xs">
               <Col lg={6} md={8} sm={10} xs={12}>
                 <span>
