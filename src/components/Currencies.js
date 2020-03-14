@@ -61,7 +61,7 @@ export default class Currencies extends Component {
             <Col lg={6} md={8} sm={10} xs={12}>
               {i > -1 && (
                 <p className="mt-3 mb-0">
-                  1BTC(₿) =
+                  1BTC =
                   <b className="price ml-1">
                     {this.state.data[i].last}({this.state.data[i].symbol})
                   </b>
